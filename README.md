@@ -1,5 +1,5 @@
 # Machine-Learning
-machine learning small projects
+machine learning small projects\n
 First Project- building decision Trees (Classifier and Regressor) 
               , adaboost and Gradient boost from scratch in python 
               I got RANK 3 in terms of peformance (models Accuracy and time complexity)
