@@ -8,3 +8,4 @@ Second and Third Project - applying machine learning algorithms to a dataset </b
                           (includes visulazation, data pre-processing and</br>
                           predictions)</br>
 done 95% of the work by myself.</br>
+average grades: 106/100
